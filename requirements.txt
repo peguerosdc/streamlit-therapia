@@ -1,5 +1,11 @@
-altair==5.1.2
-numpy==1.26.1
-pandas==2.1.2
-pydeck==0.8.0
-streamlit==1.28.1
+streamlit==1.47.1
+plotly==6.3.0
+pandas==2.3.1
+supabase==2.17.0
+st-supabase-connection==2.1.0
+python-dotenv==1.1.1
+psycopg2-binary==2.9.10
+numpy==2.3.1
+plotly==6.3.0
+matplotlib==3.10.0
+scipy==1.16.2
